@@ -1,0 +1,6 @@
+﻿  Main.c
+D:\Users\Quang Vinh\Documents\Visual Studio 2022\Program_C\FPL\COM108_PH26105_asm_2\checkError\Main.c(33,12): warning C4476: 'scanf_s' : unknown type field character '.' in format specifier
+D:\Users\Quang Vinh\Documents\Visual Studio 2022\Program_C\FPL\COM108_PH26105_asm_2\checkError\Main.c(33,21): warning C4474: 'scanf_s' : too many arguments passed for format string
+D:\Users\Quang Vinh\Documents\Visual Studio 2022\Program_C\FPL\COM108_PH26105_asm_2\checkError\Main.c(33,21): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+D:\Users\Quang Vinh\Documents\Visual Studio 2022\Program_C\FPL\COM108_PH26105_asm_2\checkError\Main.c(29,8): warning C4101: 'tuoi': unreferenced local variable
+  checkError.vcxproj -> D:\Users\Quang Vinh\Documents\Visual Studio 2022\Program_C\FPL\COM108_PH26105_asm_2\x64\Debug\checkError.exe

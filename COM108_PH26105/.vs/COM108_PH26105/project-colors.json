@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d6509ca-dd84-4b4d-a908-c4cf761ed08f": {
+      "ProjectGuid": "6d6509ca-dd84-4b4d-a908-c4cf761ed08f",
+      "DisplayName": "Bai_1.0_GioiThieuLapTrinhC",
+      "ColorIndex": 0
+    },
+    "09c8eb58-a158-4def-bdd0-00f0419379dd": {
+      "ProjectGuid": "09c8eb58-a158-4def-bdd0-00f0419379dd",
+      "DisplayName": "Bai_1.1_KhaiNiemVeBien",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b9c47dbe-e5c9-4383-8403-f3b5590c5ff9": {
+      "ProjectGuid": "b9c47dbe-e5c9-4383-8403-f3b5590c5ff9",
+      "DisplayName": "Bai_1.2_CauLenhXuatRaManHinh",
+      "ColorIndex": 2
+    },
+    "87b76a9b-78b0-499c-b774-9dd5071c3e59": {
+      "ProjectGuid": "87b76a9b-78b0-499c-b774-9dd5071c3e59",
+      "DisplayName": "Bai_1.3_NhapDuLieuTuBanPhim",
+      "ColorIndex": 3
+    },
+    "1ccc34df-a657-4782-b9d1-538981ae245c": {
+      "ProjectGuid": "1ccc34df-a657-4782-b9d1-538981ae245c",
+      "DisplayName": "Bai_1.4_ToanTuTrongLapTrinh",
+      "ColorIndex": 4
+    },
+    "66e01b21-fcf1-4107-8fb1-1ed495766e90": {
+      "ProjectGuid": "66e01b21-fcf1-4107-8fb1-1ed495766e90",
+      "DisplayName": "Bai_1.5_CauDieuKien",
+      "ColorIndex": 5
+    },
+    "08b65006-9c86-40a2-b5a6-23171776604c": {
+      "ProjectGuid": "08b65006-9c86-40a2-b5a6-23171776604c",
+      "DisplayName": "Bai_1.5_BaiTap",
+      "ColorIndex": 6
+    },
+    "e474fe66-9c9b-4a43-b8ab-3f09ada012e8": {
+      "ProjectGuid": "e474fe66-9c9b-4a43-b8ab-3f09ada012e8",
+      "DisplayName": "Bai_1.6_SwitchCase",
+      "ColorIndex": 7
+    },
+    "20833edd-d570-44c5-884c-cd6ac14d725c": {
+      "ProjectGuid": "20833edd-d570-44c5-884c-cd6ac14d725c",
+      "DisplayName": "Bai_1.7_3LoaiVongLap",
+      "ColorIndex": 8
+    },
+    "621c3201-f937-48c5-8143-24c5a632a4a0": {
+      "ProjectGuid": "621c3201-f937-48c5-8143-24c5a632a4a0",
+      "DisplayName": "Bai_1.7_BAI_TAP_SWITCH_CASE",
+      "ColorIndex": 9
+    },
+    "9c3ad992-c140-436b-a3d8-434b9304de0c": {
+      "ProjectGuid": "9c3ad992-c140-436b-a3d8-434b9304de0c",
+      "DisplayName": "COM108_PH26105_lab_1_2",
+      "ColorIndex": 10
+    },
+    "2cf0f672-aa5d-42ca-8167-51501192be25": {
+      "ProjectGuid": "2cf0f672-aa5d-42ca-8167-51501192be25",
+      "DisplayName": "Bai_1.8_HamVoid",
+      "ColorIndex": 11
+    },
+    "ca0b9ca6-76b9-4e16-ad06-8e5cbb6a9bda": {
+      "ProjectGuid": "ca0b9ca6-76b9-4e16-ad06-8e5cbb6a9bda",
+      "DisplayName": "troi_lenh",
+      "ColorIndex": 12
+    },
+    "d8104ed7-754f-4804-8abd-68a9f44e936d": {
+      "ProjectGuid": "d8104ed7-754f-4804-8abd-68a9f44e936d",
+      "DisplayName": "test",
+      "ColorIndex": 13
+    },
+    "a9c08d6a-b117-4fe2-8aa7-cf4241b961cb": {
+      "ProjectGuid": "a9c08d6a-b117-4fe2-8aa7-cf4241b961cb",
+      "DisplayName": "test",
+      "ColorIndex": 14
+    },
+    "56866bcf-bcd4-4e1a-81ca-02e0db1d9368": {
+      "ProjectGuid": "56866bcf-bcd4-4e1a-81ca-02e0db1d9368",
+      "DisplayName": "CHUA_BAI_LA1_2",
+      "ColorIndex": 15
+    },
+    "64bb729c-f768-4b5e-a19c-2f67cb6f1d3e": {
+      "ProjectGuid": "64bb729c-f768-4b5e-a19c-2f67cb6f1d3e",
+      "DisplayName": "Bai_1.9_HamTraVe",
+      "ColorIndex": 0
+    },
+    "9bda0900-64d1-45c9-89a4-773f9a0764fa": {
+      "ProjectGuid": "9bda0900-64d1-45c9-89a4-773f9a0764fa",
+      "DisplayName": "Bai_2.0_Mang_Array",
+      "ColorIndex": 1
+    },
+    "b5506ff5-e17c-4cc8-9927-4a7584be7620": {
+      "ProjectGuid": "b5506ff5-e17c-4cc8-9927-4a7584be7620",
+      "DisplayName": "Bai_2.1_ThuatToanSapXepNoiBot",
+      "ColorIndex": 2
+    },
+    "cd066cb5-36aa-4d1c-8664-5bcce3ef570b": {
+      "ProjectGuid": "cd066cb5-36aa-4d1c-8664-5bcce3ef570b",
+      "DisplayName": "BAI_TAP_MANG_ARRAY",
+      "ColorIndex": 3
+    },
+    "c3a7c6cb-e377-46b3-8203-f26360023895": {
+      "ProjectGuid": "c3a7c6cb-e377-46b3-8203-f26360023895",
+      "DisplayName": "Bai_2.2_StringTrongC",
+      "ColorIndex": 4
+    },
+    "8edc8781-1539-4250-8056-607926b06788": {
+      "ProjectGuid": "8edc8781-1539-4250-8056-607926b06788",
+      "DisplayName": "vidu",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

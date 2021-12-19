@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b499e3e-34f6-4c81-842d-5953214ef1cb": {
+      "ProjectGuid": "7b499e3e-34f6-4c81-842d-5953214ef1cb",
+      "DisplayName": "COM108_PH26105_asm_2",
+      "ColorIndex": 0
+    },
+    "2d2f80b7-77da-43b5-97b2-afc6ebe79557": {
+      "ProjectGuid": "2d2f80b7-77da-43b5-97b2-afc6ebe79557",
+      "DisplayName": "checkError",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
