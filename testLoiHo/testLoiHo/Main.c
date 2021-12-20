@@ -16,34 +16,34 @@ int main()
 		printf_s("8.Thoat \n");
 		printf_s("Moi ban chon chuc nang: \n");
 		scanf_s("%d", &choice);
+		getchar();
 		switch (choice)
 		{
 		case 1:
-			getchar();
 			printf_s("Bai 1 \n");
 			int Msv;
 			char ten[100];
 			int namsinh;
 			double diemthiC;
-			int tuoi;
 			printf_s("Moi ban nhap ma sinh vien \n");
 			scanf_s("%d", &Msv);
+			getchar();
 			printf_s("Moi ban nhap ten : \n");
 			gets_s(ten, 100);
 			printf_s("Moi ban nhap nam sinh: \n");
 			scanf_s("%d", &namsinh);
 			printf_s("Moi ban nhap diem mon C : \n");
-			scanf_s("%.1lf", &diemthiC);
+			scanf_s("%lf", &diemthiC);
 			printf_s("Msv : %d | Ten : %s | Namsinh : %d | Tuoi : %d | DienthiC : %.1lf", Msv, ten, namsinh, 2021 - namsinh, diemthiC);
 			break;
 		case 2:
 			printf_s("Bai 2 \n");
-			int tensp[100];
+			char tensp[100];
 			double cannangsp;
 			printf_s("Moi ban nhap ten sp \n");
 			gets_s(tensp, 100);
 			printf_s("Moi ban nhap can nang san pham : \n");
-			scanf_s("%.1lf", &cannangsp);
+			scanf_s("%lf", &cannangsp);
 			printf_s("Ten san pham : %s | Can nang : %.1lf ", tensp, cannangsp);
 			if (cannangsp > 10)
 			{
@@ -58,7 +58,7 @@ int main()
 			printf_s("Bai 3 \n");
 			int dayso[100];
 			int soluongdayso;
-			int tongcacdayso;
+			int tongcacdayso = 0;
 			printf_s("Moi ban nhap so luong day so : \n");
 			scanf_s("%d", &soluongdayso);
 			for (int i = 0; i < soluongdayso; i++)
@@ -73,7 +73,7 @@ int main()
 			printf_s("Bai 4 \n");
 			int arrNumbers[100];
 			int soluong;
-			int tong;
+			int tong = 0;
 			printf_s("Moi ban nhap so luong \n");
 			scanf_s("%d", &soluong);
 			for (int i = 0; i < soluong; i++)
@@ -121,7 +121,7 @@ int main()
 			}
 			break;
 		case 7:
-			printf_s("Bai 7 \n");
+			/*printf_s("Bai 7 \n");
 			double diemthi[100];
 			double diemTH[100];
 			double diemythuc[100];
@@ -144,10 +144,11 @@ int main()
 				scanf_s("%.1lf", &diemythuc[i]);
 			}
 			double diemtb = (diemthi + diemTH + diemythuc) / 3;
-			printf_s("Diem tb la : %.1lf \n", diemtb);
+			printf_s("Diem tb la : %.1lf \n", diemtb);*/
 			break;
 		case 8:
 			printf_s("Hen gap lai");
+			return;
 			break;
 		default:
 			printf_s("Chuc nang khong ton tai \n");
