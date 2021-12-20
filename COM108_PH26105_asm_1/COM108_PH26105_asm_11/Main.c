@@ -3,6 +3,7 @@
 void bai1();
 void bai2(int arrNguyen[100], int soLuong);
 void bai3();
+void testThu();
 
 int main() {
 	/*Sử dụng SwitchCase và Vòng lặp menu gồm 3 bài*/
@@ -36,6 +37,9 @@ int main() {
 		case 4:
 			printf_s("\nAn nut bat ki de thoat chuong trinh.");
 			return;
+			break;
+		case 5:
+			testThu();
 			break;
 		default:
 			break;
@@ -114,5 +118,22 @@ void bai3() {
 }
 
 int checkTuoi(int namSinh) {
-	return 2021 - namSinh;
+	int tuoi = 2021 - namSinh;
+	return tuoi;
+}
+
+void testThu() {
+	int arrNamSinh[100], soLuong, count = 0;
+	printf_s("Ban muon nhap vao bao nhieu nam sinh: ");
+	scanf_s("%d", &soLuong);
+	for (int i = 0; i < soLuong; i++)
+	{
+		printf_s("Hay nhap vao nam sinh thu %d: ", i + 1);
+		scanf_s("%d", &arrNamSinh[i]);
+	}
+	printf_s("Tuoi cua cac nam sinh ban vua nhap la: ");
+	for (int i = 0; i < soLuong; i++)
+	{
+		printf_s("%d ", checkTuoi(arrNamSinh[i]));
+	}
 }
