@@ -84,7 +84,7 @@ void bai2() {
 void sapXepMang(int arrNguyen[10]) {
 	for (int i = 0; i < 9; i++)
 	{
-		for (int j = 0; j < 10; j++)
+		for (int j = i + 1; j < 10; j++)
 		{
 			if (arrNguyen[i] < arrNguyen[j])
 			{
